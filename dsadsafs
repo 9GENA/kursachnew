@@ -1,0 +1,23 @@
+[33mcommit b07138085ea365fe3e14e8b83d24b7fc34e106cf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gena <kawaidobro@gmail.com>
+Date:   Fri Jan 11 00:44:18 2019 +0400
+
+    сделал auth
+
+[33mcommit f3da7aa7a77013f3b46a1ebd2ea66b4251c50fcf[m
+Author: Gena <kawaidobro@gmail.com>
+Date:   Thu Jan 10 17:36:45 2019 +0400
+
+    после миграции
+
+[33mcommit 0208bb82525ca70261233cea56ac5f6d84754c35[m
+Author: Gena <kawaidobro@gmail.com>
+Date:   Fri Dec 14 09:41:47 2018 +0400
+
+    the true kursach version
+
+[33mcommit aa447cea858729bb00aba3613577088031e51f65[m
+Author: 9GENA <32319843+9GENA@users.noreply.github.com>
+Date:   Fri Dec 14 09:38:21 2018 +0400
+
+    Initial commit
